@@ -23,12 +23,13 @@ On next launch you only need to use commands:
 
 __WINDOWS SETTING_UP_WEBSERVICES__ (as shown in video)
 > ctrl+~ (to go into terminal for visual studio code)
-python3 -m venv .   
 > switch to cmd
-.\Scripts\activate.bat
-********** make sure to change <USER> with ur windows username***************
-pip3 install -r C:\Users\<USER>\Downloads\yxefoodbank-main\yxefoodbank-main\requirements.txt
-python3 C:\Users\<USER>\Downloads\yxefoodbank-main\yxefoodbank-main\manage.py runserver
+Run this line of code into the cmd into the CMD 
+venv\Scripts\activate
+pip install -r requirements.txt
+pip install pillow 
+pip install stripe
+manage.py runserver
 
 
 __WEB_BROWSER__
