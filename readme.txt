@@ -1,4 +1,4 @@
-Shaheq Shakeel
+HervM/Shaheq Shakeel
 
 __MACOS SETTING_UP_WEBSERVICES __
 To run web server on Mac Os you will need virtual environment for python (venvosx):
